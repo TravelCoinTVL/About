@@ -13,3 +13,6 @@ Travel Coin $TVL will have 0.5% max transaction size and max wallet of 0.5% 
 Learn more about Travel Coin and the Travel Coin Ecosystem of all the different dApps and future plans for this unique project: https://www.tvlcoin.org
 
 The Virtual Travel Coin metaverse will be launched on https://www.virtualtravel.tv
+
+Telegram: t.me/TravelCoinTVL
+Twitter: @TravelCoinTVL
