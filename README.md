@@ -14,5 +14,6 @@ Learn more about Travel Coin and the Travel Coin Ecosystem of all the different 
 
 The Virtual Travel Coin metaverse will be launched on https://www.virtualtravel.tv
 
-Telegram: t.me/TravelCoinTVL
+Telegram: https://t.me/TravelCoinTVL
+
 Twitter: @TravelCoinTVL
