@@ -8,7 +8,7 @@ Travel Coin $TVL will be used as a payment for NFTs for purchasing holidays, des
 
 Travel Coin $TVL will provide 4% Rewards paid in BUSD to your wallets on every transaction made. Other unique functions to benefit the future growth of $TVL: 1% buyback burn, 4% marketing, 1% sustainable economic development projects, 5% liquidity pool.  
 
-Travel Coin $TVL will have 0.5% max transaction size and max wallet of 0.5% 
+Travel Coin $TVL will have 0.01% max transaction size and max wallet of 0.1% 
 
 Learn more about Travel Coin and the Travel Coin Ecosystem of all the different dApps and future plans for this unique project: https://www.tvlcoin.org
 
